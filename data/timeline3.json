@@ -1,0 +1,29 @@
+{
+  "title": {
+    "media": {
+      "url": "{{ static_url }}/img/Com_LC0738-024-001.jpg",
+      "caption": "Zurich-Kloten airport, border medical service, seasonal workers waiting for medical check-up ",
+      "credit": "ETH-Bibliothek Zürich, Bildarchiv / Fotograf: Comet Photo AG (Zürich) / Com_LC0738-024-001 / CC BY-SA 4.0 "
+    },
+    "text": {
+      "headline": "The aliens and the computer",
+      "text": "<p>The economic boom of the 1960s brought hundreds of thousands of migrant workers to Switzerland. Rapid population growth pushed the infrastructure to its limits and xenophobic tendencies spread to right-wing and trade unionist circles. The Federal Council's reluctance to regulate labour migration also contributed to the fact that the advocates of the second \"alienation initiative\" had good chances at the ballot box. In order to avert this rigorous and anti-growth restriction of immigration, the Federal Council issued a more economically acceptable \"limitation of the number of foreigners\" (global ceiling) on 16 March 1970.</p>"
+    }
+  },
+  "events": [{
+    "media": {
+      "url": "https://www.youtube.com/watch?v=gm0oS247p-E",
+      "caption": "In October 1974, the third overforeignization initiative of the \"National Action\" was clearly rejected. The initiators had demanded the expulsion of half a million foreigners from Switzerland.",
+      "credit": "«Tagesschau Jahresrückblick» vom 30. Dezember 1974"
+    },
+    "start_date": {
+      "year": "1974",
+      "month": "12",
+      "day": "30"
+    },
+    "text": {
+      "headline": "the third overforeignization initiative",
+      "text": "In October 1974, the third overforeignization initiative of the \"National Action\" was clearly rejected. The initiators had demanded the expulsion of half a million foreigners from Switzerland."
+    }
+  }]
+}
