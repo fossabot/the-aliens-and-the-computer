@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Moritz Mähr -- Maintainer -- @moritzmaehr
+
+# THANKS
+
+    Nobody just yet
+
+# TECHNOLOGY COLOPHON
+
+    http://timeline.knightlab.com/
+    https://html5boilerplate.com/
