@@ -1,7 +1,7 @@
 {
   "title": {
     "media": {
-      "url": "{{ static_url }}/img/Com_LC0738-024-001.jpg",
+      "url": "https://raw.githubusercontent.com/maehr/the-aliens-and-the-computer/master/img/Com_LC0738-024-001.jpg",
       "caption": "Zurich-Kloten airport, border medical service, seasonal workers waiting for medical check-up ",
       "credit": "ETH-Bibliothek Zürich, Bildarchiv / Fotograf: Comet Photo AG (Zürich) / Com_LC0738-024-001 / CC BY-SA 4.0 "
     },
